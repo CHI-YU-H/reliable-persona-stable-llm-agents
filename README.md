@@ -8,8 +8,8 @@ This repository contains the implementation and experiment materials for a perso
 
 | Experiment | Focus | Description |
 |---|---|---|
-| Experiment 3 | Guided Scenario-Based Output Analysis | Evaluates the proposed framework in guided laboratory introduction scenarios. |
-| Experiment 4 | Internal Knowledge Base Ablation | Compares responses with and without access to the internal laboratory knowledge base. |
-| Experiment 5 | Task Continuity Ablation | Compares responses with and without task continuity handling in multi-turn conversations. |
+| Experiment 3 | Task continuation | Examines whether the agent can maintain task context across multi-turn interactions. |
+| Experiment 4 | Knowledge grounding | Examines whether the agent can generate responses grounded in the internal knowledge base. |
+| Experiment 5 | Response scope control | Examines whether the agent can control the response scope and avoid unsupported claims when available information is insufficient. |
 
 Full experiment materials are available in [`experiments`](experiments/).
