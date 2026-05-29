@@ -12,4 +12,4 @@ This repository contains the implementation and experiment materials for a perso
 | Experiment 4 | Internal Knowledge Base Ablation | Compares responses with and without access to the internal laboratory knowledge base. |
 | Experiment 5 | Task Continuity Ablation | Compares responses with and without task continuity handling in multi-turn conversations. |
 
-Full experiment materials are available in [`docs/experiments`](docs/experiments/).
+Full experiment materials are available in [`experiments`](experiments/).
